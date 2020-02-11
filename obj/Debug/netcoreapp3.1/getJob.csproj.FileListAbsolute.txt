@@ -1,0 +1,11 @@
+/home/sean/getJob/bin/Debug/netcoreapp3.1/getJob
+/home/sean/getJob/bin/Debug/netcoreapp3.1/getJob.deps.json
+/home/sean/getJob/bin/Debug/netcoreapp3.1/getJob.runtimeconfig.json
+/home/sean/getJob/bin/Debug/netcoreapp3.1/getJob.runtimeconfig.dev.json
+/home/sean/getJob/bin/Debug/netcoreapp3.1/getJob.dll
+/home/sean/getJob/bin/Debug/netcoreapp3.1/getJob.pdb
+/home/sean/getJob/obj/Debug/netcoreapp3.1/getJob.csprojAssemblyReference.cache
+/home/sean/getJob/obj/Debug/netcoreapp3.1/getJob.AssemblyInfoInputs.cache
+/home/sean/getJob/obj/Debug/netcoreapp3.1/getJob.AssemblyInfo.cs
+/home/sean/getJob/obj/Debug/netcoreapp3.1/getJob.dll
+/home/sean/getJob/obj/Debug/netcoreapp3.1/getJob.pdb
